@@ -1,3 +1,3 @@
 public interface DiscountStrategy {
-  public floato applyDiscount(Order order);
+  public float applyDiscount(Order order);
 }
